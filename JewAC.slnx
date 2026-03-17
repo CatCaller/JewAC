@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="JewAC.vcxproj" Id="cb728159-d20e-49c4-8e55-b8deb026aa33" />
+</Solution>
